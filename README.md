@@ -15,7 +15,7 @@ About:
 
 Compilation and Installation:
 
-—> Please go to Targets -> Build Settings and search for Objective-C Bridging Header. In its value, put the complete path for RNCryptor.h. In my case, it was /Users/ssd3/Desktop/Jignesh/SecurePhotoSaving/RNCryptor.h
+—> Please go to Targets -> Build Settings and search for Objective-C Bridging Header. In its value, put the complete path for RNCryptor.h (its in source code). In my case, it was /Users/ssd3/Desktop/Jignesh/SecurePhotoSaving/RNCryptor.h
 
 
 PS: If complete path is not entered in Objective-C Bridging Header, it will show many errors and application will not compile.
